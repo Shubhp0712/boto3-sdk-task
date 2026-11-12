@@ -1,0 +1,13 @@
+Instance ID,State,Instance Type,Architecture,Start Time,Region,Hourly Price,Daily Price,Monthly Price
+i-084d39e798f1f60ed,stopped,t3.small,x86_64,2026-10-08 05:46:37+00:00,ap-south-1,0.0208,0.0000,0.0000
+i-00f2b1da9f2f9b42b,stopped,t3.micro,x86_64,2026-10-08 05:51:46+00:00,ap-south-1,0.0104,0.0000,0.0000
+i-0fbb4faee6b09fd7c,running,t3.micro,x86_64,2026-11-12 10:03:53+00:00,ap-south-1,0.0104,0.2496,7.4880
+i-0e366c2c05db8a9d0,running,t3.micro,x86_64,2026-11-12 10:04:11+00:00,ap-south-1,0.0104,0.2496,7.4880
+i-0bde05a93da54ef9a,stopped,t3.micro,x86_64,2026-10-26 09:01:03+00:00,ap-south-1,0.0104,0.0000,0.0000
+i-0f8334d691f94fd1d,stopped,t3.micro,x86_64,2026-10-22 09:00:04+00:00,ap-south-1,0.0104,0.0000,0.0000
+i-06c9e0019a3f27115,stopped,t3.micro,x86_64,2026-10-27 06:19:38+00:00,us-east-1,0.0104,0.0000,0.0000
+i-032e980dafd55843c,running,t3.small,x86_64,2026-11-12 04:21:43+00:00,us-east-1,0.0208,0.4992,14.9760
+i-06985f5afe71d706a,running,t3.small,x86_64,2026-11-12 04:21:43+00:00,us-east-1,0.0208,0.4992,14.9760
+i-019418c6d26df77ca,stopped,t3.micro,x86_64,2026-10-09 06:30:48+00:00,us-east-1,0.0104,0.0000,0.0000
+i-0c3190ecbd0bc8a0b,stopped,t3.small,x86_64,2026-10-09 06:30:48+00:00,us-east-1,0.0208,0.0000,0.0000
+i-0766e733b238fb2a6,stopped,t3.micro,x86_64,2026-10-27 06:14:53+00:00,us-east-1,0.0104,0.0000,0.0000
