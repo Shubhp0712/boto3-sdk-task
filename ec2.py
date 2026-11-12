@@ -53,8 +53,8 @@ for region in regions:
 
         data.append(f"{instance.id}, {instance.state['Name']}, {instance.instance_type}, {instance.architecture}, {instance.launch_time}, {region}, {hourly_price[instance.instance_type]}, {daily_price_value:.4f}, {monthly_price_value:.4f}")  
 
-    with open('ec2_instances.csv', 'w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(csv_headers)
-        for row in data:
-            writer.writerow(row.split(', '))
+with open('ec2_instances.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(csv_headers)
+    for row in data:
+        writer.writerow(row.split(', '))
